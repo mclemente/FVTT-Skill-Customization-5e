@@ -19,3 +19,5 @@ Makes use of libWrapper to reduce likelihood of conflicts. Installing libWrapper
 ## License
 
 Licensed under the GPLv3 License (see [LICENSE](LICENSE)).
+
+This is a fork of [Cole Schultz's Skill Customization for D&D5E](https://github.com/schultzcole/FVTT-Skill-Customization-5e).
